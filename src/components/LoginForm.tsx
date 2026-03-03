@@ -21,7 +21,7 @@ const LoginForm = () => {
           <Waves className="w-8 h-8 text-primary-foreground" />
         </div>
         <h1 className="font-display text-2xl md:text-3xl font-bold tracking-wider text-foreground glow-text">
-          LITORAL SP
+          CONECTAMONGA
         </h1>
         <p className="text-muted-foreground text-sm font-body tracking-wide">
           Acesse sua conta para continuar
